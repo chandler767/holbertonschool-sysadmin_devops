@@ -1,2 +1,2 @@
- #!/bin/bash
-ECHO $(date)
+#!/bin/bash
+echo $(date)

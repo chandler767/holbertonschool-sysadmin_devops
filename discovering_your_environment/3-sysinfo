@@ -1,4 +1,2 @@
- #!/bin/bash
-ECHO $(w)
-
-
+#!/bin/bash
+echo $(w)

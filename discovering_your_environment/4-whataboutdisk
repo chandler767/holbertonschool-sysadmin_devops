@@ -1,4 +1,2 @@
- #!/bin/bash
-ECHO $(df)
-
-
+#!/bin/bash
+echo $(df)
