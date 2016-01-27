@@ -1,2 +1,2 @@
- #!/bin/bash
-ECHO 'Hello Holberton School!'
+#!/bin/bash
+echo 'Hello Holberton School!'

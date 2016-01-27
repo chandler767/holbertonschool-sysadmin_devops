@@ -1,5 +1,2 @@
- #!/bin/bash
-ECHO "Hello, my shell is $SHELL"
-
-
-
+#!/bin/bash
+echo "Hello, my shell is $SHELL"

@@ -1,5 +1,5 @@
- #!/bin/bash
-ECHO "Hello, home directory is $(pwd) and my username is $USER!"
+#!/bin/bash
+echo "Hello, home directory is $(pwd) and my username is $USER!"
 
 
 
