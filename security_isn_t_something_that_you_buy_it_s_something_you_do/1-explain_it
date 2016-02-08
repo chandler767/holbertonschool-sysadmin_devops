@@ -1,0 +1,11 @@
+1. What should you create? Using what?
+
+You will need to enerate a public/private SSH key pair. On a mac that means that I will use the utility 'ssh-keygen' to generate my keys using the command 'ssh-keygen -t rsa -b 4096' to create a key with 4096 bits of type RSA.
+
+2. What should you do with the public key? How will it be used? What will it do?
+
+The public key should be placed on the server so I can connect to it. It will be used to authenticate me, when I connect to the server. 
+
+3. What should you do with the private key? How will it be used? What will it do?
+
+Keep it protected on my computer. The private key is used to authenticate me, along with the public key on the server. The private key is basically my password. 
